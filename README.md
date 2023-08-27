@@ -1,2 +1,2 @@
 # JUST KIDDING
-![KU](image/firdaus.jpg "Ku")
+![KU](images/firdaus.jpg "Ku")
